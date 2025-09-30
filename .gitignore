@@ -1,0 +1,11 @@
+# R artifacts
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# System files
+.DS_Store
+
+# Large data files (optional)
+# data/raw/*.csv
