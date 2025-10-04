@@ -53,4 +53,4 @@ What team characteristics predict Super Bowl victories?
 - Should playoff statistics be weighted differently than regular season?
 - Define "roster construction" metrics—what's actually measurable?
 - Consider interaction effects (e.g., elite defense + strong running game)?
-[Add thoughts as they emerge]
+- For clarification's sake: championship team = Super Bowl winner, not just conference champ (binary outcome variable). Dataframe will be ~480 rows (32 teams x 15 seasons). 15 rows will have outcome = 1, rest = 0. This model is to predict which teams win championships, not just analyzing past winners.
